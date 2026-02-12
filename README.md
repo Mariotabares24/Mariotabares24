@@ -2,7 +2,20 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on building a PC Part Price Tracker (using Flask, PostgreSQL, and web scraping) and enhancing my Discord AI Chat Bot with OpenAI API integrations.<br><br>🌱 I’m currently learning systems programming, advanced software design, and finance principles as part of my Computer Science degree at UIC.<br><br>👯 I’m looking to collaborate on AI/ML projects, full-stack applications, and open-source contributions where I can apply my skills in Python, Java, and web technologies.<br><br>🤔 I’m looking for help with scaling AI integrations for real-time applications and best practices for cloud deployment with Docker/Firebase.<br><br>💬 Ask me about web scraping, building chatbots, databases, or balancing tech with finance/business strategy.<br><br>📫 How to reach me: mariotabares153@gmail.com<br><br>⚡ Fun fact: I’m a tech enthusiast with a finance mindset, a former manager with 5+ years of leadership experience, and an intramural soccer player who loves teamwork on and off the field.</p>
+- I’m currently working on building a PC Part Price Tracker (using Flask, PostgreSQL, and web scraping) and enhancing my Discord AI Chat Bot with OpenAI API integrations.
+
+- I’m currently learning systems programming, advanced software design, and finance principles as part of my Computer Science degree at UIC.
+
+- I’m looking to collaborate on AI/ML projects, full-stack applications, and open-source contributions where I can apply my skills in Python, Java, and web technologies.
+
+- I’m looking for help with scaling AI integrations for real-time applications and best practices for cloud deployment with Docker/Firebase.
+
+- Ask me about web scraping, building chatbots, databases, or balancing tech with finance/business strategy.
+
+- How to reach me: mariotabares153@gmail.com
+
+- Fun fact: I’m a tech enthusiast with a finance mindset, a former manager with 5+ years of leadership experience, and an intramural soccer player who loves teamwork on and off the field.
+
 
 ###
 
